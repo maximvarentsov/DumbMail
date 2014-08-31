@@ -1,0 +1,9 @@
+# DumbMail
+# --------------------------
+# Because all you need is mail
+#
+# Not sure what something does? See the commented configuration inside the jar (or at the link below)
+# https://github.com/turt2live/DumbMail/blob/master/src/main/resources/config.yml
+
+# Prefix for all messages
+prefix: '&7[DumbMail]'

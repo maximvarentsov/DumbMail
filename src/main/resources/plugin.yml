@@ -1,0 +1,7 @@
+name: DumbMail
+main: com.turt2live.dumbmail.DumbMail
+version: maven-version-number
+description: I hate downloading plugins.
+author: turt2live
+website: http://github.com/turt2live/DumbMail
+build: jenkins-build-number
